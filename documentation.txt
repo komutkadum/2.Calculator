@@ -1,0 +1,5 @@
+- used math.js for calculating expression 
+- for the input to be right to left, used a simple text align in css. At first was using the attribute 'dir' in input tag but wasn't good for operators so ignored the idea.
+=when the input is zero, cleared the whole text in the input so as not to come as zero at the beginning of the numbers.
+- used google fonts robota for better font.
+- the color combination is a little on the blue and dark side as suited.
